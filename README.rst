@@ -14,6 +14,7 @@ Usage
 -----
 
 ::
+
     dial.py [-h] [-l LISTEN] [-d DIAL]
 
     bespoke dial: old-timey speed dial
