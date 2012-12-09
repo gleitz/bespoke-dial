@@ -9,6 +9,7 @@ Installation
 -  ``pip install -r requirements.txt``
 -  Place Google Voice username and password in secret.txt (USERNAME|||PASSWORD)
 -  ``python dial.py``
+-  Arduino code available in ``telephone.ino``
 
 Usage
 -----
