@@ -5,6 +5,7 @@
 #include <SdFatUtil.h>
 
 //and the MP3 Shield Library
+//http://www.billporter.info/2012/01/28/sparkfun-mp3-shield-arduino-library/
 #include <SFEMP3Shield.h>
 
 //create and name the library object
