@@ -1,0 +1,8 @@
+*.pyc
+secret.txt
+.DS_Store
+dist/
+build/
+*.egg-info
+*~
+.#*
