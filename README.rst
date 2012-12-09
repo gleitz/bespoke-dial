@@ -29,4 +29,5 @@ Usage
 
 Extra notes:
 
+-  More info at `gleitzman.com <http://blog.gleitzman.com/post/37568038528/bespoke-dial-old-timey-automation>`_
 -  Special thanks to `Hard Hack 2012 <https://github.com/dshaw/hard-hack-2012>`_
